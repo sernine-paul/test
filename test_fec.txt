@@ -1,0 +1,7 @@
+CodeJournal	LibelleJournal	NumeroSequence	DateComptabilisation	NumeroCompte	LibelleCompte	NumeroCompteAux	LibelleCompteAux	ReferencePiece	DatePiece	LibelleEcriture	Debit	Credit	Lettrage	DateLettrage	DateValidation	MontantDevise	Devise
+VT	Ventes	1	20230115	707000	Ventes de marchandises			FAC001	20230110	Facture client Dupont	1000.00	0.00			20230115		
+VT	Ventes	1	20230115	411000	Clients			FAC001	20230110	Facture client Dupont	0.00	1000.00			20230115		
+AC	Achats	2	20230120	607000	Achats de marchandises			FF002	20230122	Facture fournisseur	500,00	0.00			20230120		
+AC	Achats	2	20230120	401000	Fournisseurs			FF002	20230122	Facture fournisseur	0.00	500.00			20230120	
+VT	Ventes	3	20230201	707000	Ventes			FAC003	20230130	Vente export	200.00	0.00	A		20230201	220.00	USD
+VT	Ventes	3	20230201	411000	Clients			FAC003	20230130	Vente export	0.00	200.00	A		20230201	220.00	USD
